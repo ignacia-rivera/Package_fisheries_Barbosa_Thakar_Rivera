@@ -9,7 +9,7 @@
 #' @return a list containing the following elements: 1) a tibble (frequent_fish) containing the most frequently caught fish in each location 2) a tibble (site_revenue) containing the total revenue for each location 3) an integer (total_catches) with the total fisheries sum, and 4) a plot (plot) of revenue by location
 #' @export
 #'
-#' @author Lina Barbosa, Ignacia Rivera & Rucha Thakar
+#' @author Lina Barbosa, Ignacia Rivera and Rucha Thakar
 #'
 #' @importFrom magrittr "%>%"
 
